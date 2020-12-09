@@ -1,4 +1,4 @@
-### Basic Programming Costs 🚀 
+## Basic Programming Costs 🚀 
 
 1. Costanta pada Perulangan
       - [x] Costs tidak bisa dibuat dalam perulangan Karena bersifat tidak dapat diubah 
@@ -11,7 +11,7 @@ Output :
 
 ![alt text](https://github.com/fathoniwasesojatiTelkom/tugas_crud/blob/master/BASIC%20TUGAS%20PROGRAMMING/tugas2.png)
 
-### Basic Programming Object in Array 🚀 
+## Basic Programming Object in Array 🚀 
 
 2. Menampilkan data umur dan nama pada Object yang ada pada Array
       - [x] Untuk Fetch Array perlu menggunakan Perulangan dan untuk Fetch Objectnya perlu mengunakan array dua demensi dalam pemanggilanya
@@ -24,10 +24,9 @@ Output :
 
 ![alt text](https://github.com/fathoniwasesojatiTelkom/tugas_crud/blob/master/BASIC%20TUGAS%20PROGRAMMING/tugas5.png)
 
-### Laravel CRUD 🚀 
+## Laravel CRUD 🚀 
 
 Features :
-
       - [x] CRUD
       - [x] Middleware Auth Redirect
       - [x] Multi Roles User
