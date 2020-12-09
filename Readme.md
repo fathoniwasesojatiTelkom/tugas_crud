@@ -34,11 +34,11 @@ Features :
           
 How to install :
 
-* `Import file universitas.sql in Folder SQL`
-* `git clone https://github.com/fathoniwasesojatiTelkom/tugas_crud.git`
-* `chmod 777 in Folder Pulbic/Image`
-* `php artisan migrate`
-* `file .env for:`
+1. `Import file universitas.sql in Folder SQL`
+2. `git clone https://github.com/fathoniwasesojatiTelkom/tugas_crud.git`
+3. `chmod 777 in Folder Pulbic/Image`
+4. `php artisan migrate`
+5. `file .env for:`
 
 - DB_CONNECTION=mysql
 - DB_HOST=127.0.0.1
@@ -48,7 +48,7 @@ How to install :
 - DB_PASSWORD=
 - DB_SOCKET=/opt/lampp/var/mysql/mysql.sock
 
-6. php artisan serve
+6. `php artisan serve`
 
 Output :
 
