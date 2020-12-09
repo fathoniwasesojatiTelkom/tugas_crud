@@ -28,9 +28,9 @@ Output :
 
 Features :
 
-      - [x] CRUD
-      - [x] Middleware Auth Redirect
-      - [x] Multi Roles User
+      * `CRUD`
+      * `Middleware Auth Redirect`
+      * `Multi Roles User`
           
 How to install :
 
