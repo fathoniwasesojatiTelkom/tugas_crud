@@ -28,9 +28,9 @@ Output :
 
 Features :
 
-      * `CRUD`
-      * `Middleware Auth Redirect`
-      * `Multi Roles User`
+      * CRUD
+      * Middleware Auth Redirect
+      * Multi Roles User
           
 How to install :
 
@@ -52,11 +52,11 @@ How to install :
 
 Output :
 
-      - [x] Login
+      [x] Login
       
 ![alt text](https://github.com/fathoniwasesojatiTelkom/tugas_crud/blob/master/CRUD%20SCREENSHOOT/tugas6.png)
 
-      - [x] CRUD Menu
+      [x] CRUD Menu
      
 ![alt text](https://github.com/fathoniwasesojatiTelkom/tugas_crud/blob/master/CRUD%20SCREENSHOOT/tugas7.png)
      
