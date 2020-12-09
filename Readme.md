@@ -32,7 +32,7 @@ Features :
       * Middleware Auth Redirect
       * Multi Roles User
           
-How to install :
+### How to install :
 
 1. `Import file universitas.sql in Folder SQL`
 2. `git clone https://github.com/fathoniwasesojatiTelkom/tugas_crud.git`
@@ -40,17 +40,17 @@ How to install :
 4. `php artisan migrate`
 5. `file .env for:`
 
-- DB_CONNECTION=mysql
-- DB_HOST=127.0.0.1
-- DB_PORT=3306
-- DB_DATABASE=universitas
-- DB_USERNAME=root
-- DB_PASSWORD=
-- DB_SOCKET=/opt/lampp/var/mysql/mysql.sock
+      - DB_CONNECTION=mysql
+      - DB_HOST=127.0.0.1
+      - DB_PORT=3306
+      - DB_DATABASE=universitas
+      - DB_USERNAME=root
+      - DB_PASSWORD=
+      - DB_SOCKET=/opt/lampp/var/mysql/mysql.sock
 
 6. `php artisan serve`
 
-Output :
+### Output
 
       [x] Login
       
