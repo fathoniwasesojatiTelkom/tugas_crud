@@ -27,9 +27,11 @@ Output :
 ### Laravel CRUD 🚀 
 
 Features :
+
       - [x] CRUD
       - [x] Middleware Auth Redirect
       - [x] Multi Roles User
+      
       
 How to install :
 
